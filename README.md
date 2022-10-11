@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @blackmambo347
-- 👀 I’m interested in becoming the best hacker
+- 👋 Hi, I’m Rúben Azevedo
+- 👀 I’m interested in becoming rich
 - 🌱 I’m currently learning software engineering
 - 📫 If you have anything to say to me just send me a message
 
